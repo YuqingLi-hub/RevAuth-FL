@@ -46,17 +46,6 @@ Here,
 
 For other arguments, you can check the `federated.py` file where the detailed explanation is presented.
 
-## Citation
-```
-@InProceedings{Xu_2025_CVPR,
-    author    = {Xu, Jiahao and Zhang, Zikai and Hu, Rui},
-    title     = {Detecting Backdoor Attacks in Federated Learning via Direction Alignment Inspection},
-    booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
-    month     = {June},
-    year      = {2025},
-    pages     = {20654-20664}
-}
-```
 
 ## Acknowledgment
 Our code is constructed on https://github.com/JiiahaoXU/AlignIns#, big thanks to their contribution!
